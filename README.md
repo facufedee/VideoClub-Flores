@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# VideoClub-Flores
-=======
-HOLA
->>>>>>> d0c4b8d2709e822814f22c627aaf48934c5b5aac
-Video Club Flores
+VIDEO CLUB FLORES
 
 Video Club Flores es una aplicación web desarrollada para gestionar un catálogo de películas. Permite a los usuarios agregar, editar, eliminar y listar películas, manteniendo un registro organizado y accesible de la colección.
 
@@ -27,6 +22,7 @@ Pasos de Instalación
 Clona el repositorio desde GitHub:
 
 git clone https://github.com/facufedee/VideoClub-Flores.git
+
 Abre el proyecto en Visual Studio.
 
 Configura la cadena de conexión a la base de datos en appsettings.json o en el código según sea necesario.
@@ -45,7 +41,9 @@ Si deseas contribuir al proyecto, por favor sigue estos pasos:
 Haz un fork del repositorio.
 Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
 Realiza tus cambios y realiza commit (git commit -am 'Agrega nueva funcionalidad').
+
 Haz push a la rama (git push origin feature/nueva-funcionalidad).
+
 Envía un pull request explicando tus cambios.
 
 Autores
