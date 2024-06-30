@@ -1,0 +1,52 @@
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\bin\Debug\net6.0\BE.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\bin\Debug\net6.0\BE.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\bin\Debug\net6.0\BE.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\bin\Debug\net6.0\BE.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\obj\Debug\net6.0\DAL.csproj.Up2Date
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\bin\Debug\net6.0\BE.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\bin\Debug\net6.0\BE.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\obj\Debug\net6.0\DAL.csproj.Up2Date
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\DAL\obj\Debug\net6.0\ref\DAL.dll

@@ -1,0 +1,52 @@
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\bin\Debug\net6.0\BE.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\bin\Debug\net6.0\BE.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\bin\Debug\net6.0\BE.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\bin\Debug\net6.0\BE.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\obj\Debug\net6.0\BLL.sourcelink.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\obj\Debug\net6.0\BLL.csproj.Up2Date
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\bin\Debug\net6.0\BE.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\bin\Debug\net6.0\BE.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\obj\Debug\net6.0\BLL.csproj.Up2Date
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\BLL\obj\Debug\net6.0\ref\BLL.dll

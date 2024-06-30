@@ -1,0 +1,256 @@
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\appsettings.json
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\UI.staticwebassets.runtime.json
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\UI.exe
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\UI.deps.json
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\UI.runtimeconfig.json
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\UI.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\UI.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\UI.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\UI.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\UI.AssemblyInfo.cs
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\UI.RazorAssemblyInfo.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\UI.RazorAssemblyInfo.cs
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\staticwebassets\msbuild.UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\staticwebassets\msbuild.build.UI.props
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UI.props
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UI.props
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\scopedcss\bundle\UI.styles.css
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\scopedcss\projectbundle\UI.bundle.scp.css
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\UI.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\refint\UI.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\UI.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\UI.genruntimeconfig.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\ref\UI.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\BE.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\BLL.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\DAL.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\BE.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\BLL.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\bin\Debug\net6.0\DAL.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\VideoClub-MVC\UI\obj\Debug\net6.0\UI.csproj.CopyComplete
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\appsettings.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\UI.staticwebassets.runtime.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\UI.exe
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\UI.deps.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\UI.runtimeconfig.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\UI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\UI.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\BE.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\BLL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\DAL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\BE.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\BLL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\bin\Debug\net6.0\DAL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\UI.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\UI.AssemblyInfoInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\UI.AssemblyInfo.cs
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\UI.RazorAssemblyInfo.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\UI.RazorAssemblyInfo.cs
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\UI.sourcelink.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\staticwebassets\msbuild.UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\staticwebassets\msbuild.build.UI.props
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UI.props
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UI.props
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\scopedcss\bundle\UI.styles.css
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\scopedcss\projectbundle\UI.bundle.scp.css
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\UI.csproj.Up2Date
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\UI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\refint\UI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\UI.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\UI.genruntimeconfig.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-MVC-Flores\UI\obj\Debug\net6.0\ref\UI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\appsettings.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\UI.staticwebassets.runtime.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\UI.exe
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\UI.deps.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\UI.runtimeconfig.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\UI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\UI.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\BE.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\BLL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\DAL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\BE.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\BLL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\bin\Debug\net6.0\DAL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\UI.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\UI.AssemblyInfoInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\UI.AssemblyInfo.cs
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\UI.RazorAssemblyInfo.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\UI.RazorAssemblyInfo.cs
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\staticwebassets\msbuild.UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\staticwebassets\msbuild.build.UI.props
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UI.props
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UI.props
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\scopedcss\bundle\UI.styles.css
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\scopedcss\projectbundle\UI.bundle.scp.css
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\UI.csproj.Up2Date
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\UI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\refint\UI.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\UI.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\UI.genruntimeconfig.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Arquitectura Web\VideoClub-Flores\UI\obj\Debug\net6.0\ref\UI.dll
