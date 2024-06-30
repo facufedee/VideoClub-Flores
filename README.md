@@ -46,7 +46,8 @@ Haz push a la rama (git push origin feature/nueva-funcionalidad).
 
 Envía un pull request explicando tus cambios.
 
-Autores
+Autor
+
 Desarrollado por FACUNDO FLORES.
 
 
@@ -54,4 +55,4 @@ Estado del Proyecto
 Actualmente en desarrollo activo. Funcionalidades principales implementadas y funcionando para la Facultad.
 
 Contacto
-Para cualquier duda o consulta, contáctanos a través de facundoflores8@gmail.com.
+Para cualquier duda o consulta, contáctame via mail facundoflores8@gmail.com.
